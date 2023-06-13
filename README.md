@@ -1,1 +1,1 @@
-Projeto simples de ligar lâmpada, desligar lâmpada ao clicar nos botões correspondentes e ligar e desligar ao passar o mouse sobre a lâmpada. Dando cliques na lâmpada faz quebra-la.
+Projeto simples para ligar e desligar uma lâmpada usando botões e interação com o mouse. Ao clicar nos botões correspondentes, a lâmpada será ligada ou desligada, e ao passar o mouse sobre ela, a iluminação será ativada ou desativada. Se a lâmpada for clicada repetidamente, ela irá quebrar.
